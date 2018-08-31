@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body{
+	color:powderblue;
+	background:black;
+	text-align:center;
+}
+
+form
+{
+	padding:15px;
+	color:blue;
+}
+
+h1{
+	margin-top:15px;
+	background:red;
+	color:black;
+}
+#kani:hover{
+background:skyblue;
+color:white;
+}
